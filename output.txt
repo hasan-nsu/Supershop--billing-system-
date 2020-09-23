@@ -1,0 +1,16 @@
+arafat 1.0 1050.0
+arafat 1.0 1050.0
+sony 5.0 900.0
+abc 1.0 1100.0
+arafat 2.0 1050.0
+rice 1.0 0.0
+dall 1.0 0.0
+rice 1.0 10.0
+egg 2.0 10.0
+rice 2.0 100.0
+egg 5.0 10.0
+rice 1.0 100.0
+dal 2.0 0.0
+dall 2.0 120.0
+mango 3.0 70.0
+egg 2.0 10.0

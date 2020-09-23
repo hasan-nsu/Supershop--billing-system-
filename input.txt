@@ -1,0 +1,13 @@
+rice
+100
+dall
+120
+egg
+10
+meet
+500
+chicken
+125
+mango
+70
+
